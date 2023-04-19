@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pizzarina.github.io/static/css/main.a95361fd.css",
-    "main.js": "/pizzarina.github.io/static/js/main.73f45831.js",
+    "main.js": "/pizzarina.github.io/static/js/main.fc2f690e.js",
     "static/js/787.f4af0135.chunk.js": "/pizzarina.github.io/static/js/787.f4af0135.chunk.js",
     "static/media/pizzaLeft.jpg": "/pizzarina.github.io/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
     "static/media/vegan.jpg": "/pizzarina.github.io/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
@@ -16,11 +16,11 @@
     "static/media/pedrotechspecial.jpg": "/pizzarina.github.io/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
     "index.html": "/pizzarina.github.io/index.html",
     "main.a95361fd.css.map": "/pizzarina.github.io/static/css/main.a95361fd.css.map",
-    "main.73f45831.js.map": "/pizzarina.github.io/static/js/main.73f45831.js.map",
+    "main.fc2f690e.js.map": "/pizzarina.github.io/static/js/main.fc2f690e.js.map",
     "787.f4af0135.chunk.js.map": "/pizzarina.github.io/static/js/787.f4af0135.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a95361fd.css",
-    "static/js/main.73f45831.js"
+    "static/js/main.fc2f690e.js"
   ]
 }
