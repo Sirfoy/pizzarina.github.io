@@ -7,7 +7,7 @@ const Menu = () => {
   return (
     <div>
       <div className="menu">
-        <h1 className="menuTitle">Our Menu</h1>
+        <h1 className="menuTitle">Our Menu <small style={{fontSize:20 }}>(Curtsey of sirfoy)</small></h1>
         <div className="menuList">
           {MenuList.map((list, key) => {
             return (

@@ -12,23 +12,24 @@ const About = () => {
       <div className="aboutBottom">
         <h1>ABOUT US </h1>
 
-        
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores dicta
-          quia amet , nam, provident totam ipsum corrupti perferendis commodi
-          saepe magnam eligendi impedit. Omnis corrupti placeat nesciunt iusto
-          ratione ad consequuntur eveniet quaerat cumque sapiente et voluptatum
-          fugit nulla nihil quibusdam sit delectus temporibus iure accusamus
-          commodi, eaque ut amet! Lorem ipsum, dolor sit amet consectetur
-          adipisicing elit. Quibusdam corporis ducimus, expedita architecto illo
-          reiciendis odio excepturi animi, aut obcaecati amet repellendus
-          deserunt vel cum saepe ab autem quasi, odit ad? Dolor neque nulla
-          mollitia. Ad facere ipsa porro atque sint, impedit tempora aperiam ea
-          sed ullam aspernatur voluptates illum esse dignissimos, delectus
-          repellat recusandae quas. Reiciendis iusto, nam laudantium eos dolores
-          unde esse officia minima odio provident accusamus eius suscipit
-          dolorum sunt maiores impedit non! In beatae molestiae voluptates fugit
-          dignissimos, vitae dolore sit eligendi nihil deserunt ipsam porro.
+          Welcome to Sirfoy's Pizza, the best pizzeria in town! Our mission is
+          to bring you delicious, fresh, and authentic pizza made with the
+          finest ingredients. We are a family-owned business run by Sirfoy and
+          his team of expert pizza makers. At Sirfoy's Pizza, we believe that
+          great pizza starts with great ingredients. That's why we use only the
+          freshest and highest quality ingredients in all of our pizzas. From
+          our homemade dough to our signature sauce and premium toppings, every
+          bite of Sirfoy's Pizza is a flavor explosion. Our menu features a
+          variety of pizzas to suit all tastes, from classic pepperoni and
+          cheese to gourmet pies like the BBQ chicken and bacon pizza. We also
+          offer a range of sides and desserts to complement your meal. We take
+          pride in providing our customers with exceptional service and a
+          welcoming atmosphere. Whether you're dining in or ordering for
+          delivery, our friendly staff will ensure that your experience at
+          Sirfoy's Pizza is a memorable one. Thank you for choosing Sirfoy's
+          Pizza for your next pizza craving. We look forward to serving you
+          soon!
         </p>
       </div>
     </div>

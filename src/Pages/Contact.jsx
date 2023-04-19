@@ -1,6 +1,7 @@
 import React from "react";
 import pizzaleft from "../assets/pizzaLeft.jpg";
 import "../Styles/Contact.css";
+import { Link } from "react-router-dom";
 
 const Contact = () => {
   return (
@@ -28,10 +29,10 @@ const Contact = () => {
             placeholder="PLease enter Email..."
           />
           <label htmlFor="Message ">Message</label>
-          <textarea rows={6} placeholder="Enter your message">
-            
-          </textarea>
-          <button type="submit">Send message</button>
+          <textarea rows={6} placeholder="Enter your message"></textarea>
+          <Link to="/thankyou">
+            <button type="submit">Send message</button>
+          </Link>
         </form>
       </div>
     </div>

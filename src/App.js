@@ -7,7 +7,7 @@ import Home from './Pages/Home';
 import Menu from "./Pages/Menu";
 import About from "./Pages/About";
 import Contact from "./Pages/Contact";
-
+import Thankyou from "./Pages/Thankyou"
 
 
 
@@ -18,10 +18,11 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" exact Component={Home}></Route>
-          <Route path="/menu" exact Component={Menu}></Route>
-          <Route path="/about" exact Component={About}></Route>
-          <Route path="/contact" exact Component={Contact}></Route>
+          <Route exact path="/" Component={Home}></Route>
+          <Route path="/menu" Component={Menu}></Route>
+          <Route path="/about" Component={About}></Route>
+          <Route path="/contact" Component={Contact}></Route>
+          <Route path="/thankyou" Component={Thankyou}></Route>
         </Routes>
         <Footer />
       </Router>

@@ -7,7 +7,7 @@ const Home = () => {
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
       <div className="headerContainer">
         <h1>Sirfoys pizza</h1>
-        <p>One Bite changed Alot</p>
+        <p>One Bite changes Alot</p>
         <Link to="/menu">
           <button>Order now</button>
         </Link>
